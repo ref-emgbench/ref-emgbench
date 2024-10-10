@@ -1,6 +1,5 @@
 ## Hi there 👋 
-### Please check out our work on benchmarking reference normalization for Electromyography data 
-### <a href='https://ref-emgbench.github.io/'>Ref-EMGBench</a>
+### Please check out our work on <a href='https://ref-emgbench.github.io/'>Ref-EMGBench</a>: Benchmarking Reference Normalization for Electromyography Data
 
 <!--
 **ref-emgbench/ref-emgbench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
