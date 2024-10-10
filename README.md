@@ -1,4 +1,5 @@
-## Hi there 👋 Please check out our work on benchmarking reference normalization for Electromyography data <a href='https://ref-emgbench.github.io/'></a>
+## Hi there 👋 
+Please check out our work on benchmarking reference normalization for Electromyography data <a href='https://ref-emgbench.github.io/'>ref-emgbench</a>
 
 <!--
 **ref-emgbench/ref-emgbench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
